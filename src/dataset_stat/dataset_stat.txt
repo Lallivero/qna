@@ -1,0 +1,26 @@
+Training_set
+
+mean length context sentence  27.664171123 79475
+mean length context paragraph  136.347906977 16125
+mean length context article  5740.49608355 383
+mean length question  11.285220463 79265
+mean length answer  3.314640762 79265
+
+mean # constituent per article  9376.41253264 383
+mean # constituent per paragraph  222.707968992 16125
+
+span coverage from 77% / 76%
+
+mean overlapping q and c 3.54175234971 79265
+mean overlapping q and target s  2.93383346594 79179
+
+vocabulary
+train vocab  89370
+dev vocab  23036
+unknown  6061
+
+Unknown words
+unk in Q rate  0.225714285714
+unk in A rate  0.218311688312
+
+
